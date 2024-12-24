@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "f405270bd59b43d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a9df625086a21c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "371153351e266da2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prospects/Ideal/AI - NLP/1. Supervised ML Methods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Supervised ML Methods"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9945babecb803a08",
+    "type": "split",
+    "children": [
+      {
+        "id": "770a4ff984793ca7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f75d625001564f8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ce1b266bf5039a78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "90df05d55cbc730b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "438a1536c20f2d31",
+    "type": "split",
+    "children": [
+      {
+        "id": "a48da3ea3480aad5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f91b4bbaf16d37e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Prospects/Ideal/AI - NLP/1. Supervised ML Methods.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1. Supervised ML Methods"
+            }
+          },
+          {
+            "id": "acec875e42c76674",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Prospects/Ideal/AI - NLP/1. Supervised ML Methods.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Supervised ML Methods"
+            }
+          },
+          {
+            "id": "527ed04cdf46e1e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3b12be92b28f2ff0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Prospects/Ideal/AI - NLP/1. Supervised ML Methods.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Supervised ML Methods"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "371153351e266da2",
+  "lastOpenFiles": [
+    "Road to Taiwan/VHDL/VHDL Programming - Douglas Perry.pdf",
+    "Road to Taiwan/VHDL Programming - Douglas Perry.pdf",
+    "Prospects/Ideal/AI - NLP/Books/Speech and Language Processing.pdf",
+    "Prospects/Ideal/AI - NLP/Books/Speech and Language Processing.pdf.crdownload",
+    "Prospects/Ideal/AI - NLP/Books",
+    "Prospects/Ideal/AI - NLP/New folder",
+    "Prospects/Ideal/AI - NLP/1. Supervised ML Methods.md",
+    "Prospects/Ideal/AI - NLP",
+    "Prospects/Ideal/AI - DL/2. LLM/Intro.md"
+  ]
+}
