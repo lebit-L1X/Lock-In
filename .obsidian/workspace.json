@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prospects/Ideal/AI - NLP/1. Supervised ML Methods.md",
+                "file": "Prospects/Ideal/AI - NLP/2. Supervised ML Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Supervised ML Methods"
+              "title": "2. Supervised ML Methods"
+            }
+          },
+          {
+            "id": "7f826b458652a41d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prospects/Ideal/AI - NLP/1. Theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Theory"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prospects/Ideal/AI - NLP/1. Supervised ML Methods.md",
+                "file": "Prospects/Ideal/AI - NLP/1. Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Supervised ML Methods"
+              "title": "Backlinks for 1. Theory"
             }
           },
           {
@@ -112,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prospects/Ideal/AI - NLP/1. Supervised ML Methods.md",
+                "file": "Prospects/Ideal/AI - NLP/1. Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Supervised ML Methods"
+              "title": "Outgoing links from 1. Theory"
             }
           },
           {
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prospects/Ideal/AI - NLP/1. Supervised ML Methods.md"
+                "file": "Prospects/Ideal/AI - NLP/1. Theory.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Supervised ML Methods"
+              "title": "Outline of 1. Theory"
             }
           }
         ]
@@ -162,15 +177,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "371153351e266da2",
+  "active": "7f826b458652a41d",
   "lastOpenFiles": [
+    "Prospects/Ideal/AI - NLP/2. Supervised ML Methods.md",
+    "Prospects/Ideal/AI - NLP/1. Theory.md",
     "Road to Taiwan/VHDL/VHDL Programming - Douglas Perry.pdf",
     "Road to Taiwan/VHDL Programming - Douglas Perry.pdf",
     "Prospects/Ideal/AI - NLP/Books/Speech and Language Processing.pdf",
     "Prospects/Ideal/AI - NLP/Books/Speech and Language Processing.pdf.crdownload",
     "Prospects/Ideal/AI - NLP/Books",
     "Prospects/Ideal/AI - NLP/New folder",
-    "Prospects/Ideal/AI - NLP/1. Supervised ML Methods.md",
     "Prospects/Ideal/AI - NLP",
     "Prospects/Ideal/AI - DL/2. LLM/Intro.md"
   ]
